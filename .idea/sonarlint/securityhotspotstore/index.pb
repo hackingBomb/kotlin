@@ -11,3 +11,16 @@ b
 -src/main/kotlin/homework2/homework2.1-sort.kt,8/4/84a908ae78129a5b2b0a4eb82abf4a03936abbec
 _
 /src/main/kotlin/homework2/homework2.2-matrix.kt,1\6\16e857f555641d5c503f444dd09d63732fb259c3
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+G
+src/main/kotlin/day2.kt,0/b/0b5fecfd1a27dc6a4aff3b2bf3c15670514579b8
+Z
+*src/main/kotlin/day2-dynamicProgramming.kt,1/2/124068065c2d8d486f0fee10801da32de50f9333
+Q
+!src/main/kotlin/homework2/day2.kt,c/7/c7275bf06c20a4a857c6d06e4186eaab1bf9a0f9
+K
+src/main/kotlin/new/test.kt,b/b/bb2994262fa0767e567c875466aae7e38efc48e8

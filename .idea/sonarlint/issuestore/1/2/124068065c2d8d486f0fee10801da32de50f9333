@@ -1,0 +1,11 @@
+
+wkotlin:S1172."-Remove this unused function parameter "args".(¥å¥ûÿÿÿÿ8øÜğˆ‡2J$f4308f32-6587-47e8-9f54-7320ae60c490
+œkotlin:S117 "SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(úÛ¬Şúÿÿÿÿ8ûÜğˆ‡2J$0a041e84-7a82-4bcc-9c43-cadcc7316f33
+œkotlin:S1173"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÊíÁÄşÿÿÿÿ8ûÜğˆ‡2J$35d2fae9-5b5e-4a83-94ae-cf827fb682b0
+œkotlin:S1177"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(úÛ¬Şúÿÿÿÿ8ûÜğˆ‡2J$e91890d6-ac2f-499a-90e2-b5ccbf8bbb07
+œkotlin:S1178"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ŸÖ°ˆùÿÿÿÿ8ûÜğˆ‡2J$45ab4dc2-c82c-4515-85de-6c558bc3ac73
+œkotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(®¥Ü”ÿÿÿÿÿ8ûÜğˆ‡2J$d6f8e482-feeb-4364-95cb-da6381025317
+”kotlin:S100"PRename function "Fibo_SR" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(´¶Ò¶8şÜğˆ‡2J$d42f4f8b-cca9-410f-b38b-d47e57ade04b
+škotlin:S100"QRename function "Fibo_Dyn" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ğÁ¹­ıÿÿÿÿ8şÜğˆ‡2J$672ce3f6-fd54-489a-a570-0196dda69927
+‹kotlin:S6510"AMove "return" statements from all branches before "if" statement.(·­¿°ùÿÿÿÿ8İğˆ‡2J$d8fedcc1-87d1-4f3d-905c-55d0648df824
+†kotlin:S6510#"AMove "return" statements from all branches before "if" statement.(¿Ã²æ8İğˆ‡2J$2b4db7e4-3561-4aa4-a4cb-56da95ab8e6a
