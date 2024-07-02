@@ -11,7 +11,9 @@ lateinit var name: String
 
 3.Cmplx 허수를 쓰기 위한 객체
 
-4.
+4. equality(동일성)의 차이점
+-> == 연산자를 이용한 비교는 hashCode()의 결과를 사용한다.
+
 
 
 

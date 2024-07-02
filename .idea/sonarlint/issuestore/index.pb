@@ -24,3 +24,11 @@ Q
 !src/main/kotlin/homework2/day2.kt,c/7/c7275bf06c20a4a857c6d06e4186eaab1bf9a0f9
 K
 src/main/kotlin/new/test.kt,b/b/bb2994262fa0767e567c875466aae7e38efc48e8
+h
+8src/main/kotlin/homework3/homework3.1-bigRandIntArray.kt,c/5/c54de862da224e5ca924ca7dad1ad5db2022f739
+f
+6src/main/kotlin/homework3/homework3.2-comparingSort.kt,c/5/c55a5e662cb8d84e46d136ef4683493ab683d649
+`
+0src/main/kotlin/homework4/homework4-classDate.kt,4/c/4c6e135e3b45f6621e864ed567483760d0efc963
+\
+,src/main/kotlin/homework4/Class_Date/Date.kt,4/0/40cd2bf000bda46ce99255017a254cc44ad3defc

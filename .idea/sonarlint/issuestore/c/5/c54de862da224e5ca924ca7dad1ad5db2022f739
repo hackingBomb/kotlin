@@ -1,0 +1,12 @@
+
+wkotlin:S1172h"-Remove this unused function parameter "args".(¥å¥ûÿÿÿÿ8ÒË÷š‡2J$52f916a0-d423-4159-9046-d991198682d6
+‘kotlin:S117!"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(úãõ8ê¨ìš‡2J$52264156-297d-4f13-9cf0-5eda930fa4b4
+‘kotlin:S117!"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(úãõ8ê¨ìš‡2J$e98ff806-7f09-47b0-abc5-fe50bd216e86
+—kotlin:S117""SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¦öÖê8ê¨ìš‡2J$b9271c0a-f3b2-4656-a550-0ea80612de7e
+œkotlin:S117."SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(½¸ıŞüÿÿÿÿ8ê¨ìš‡2J$25244b91-0ae1-49c8-a691-18a402dbbf1b
+–kotlin:S117j"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÊÆÓF8ÔË÷š‡2J$3f8ff357-b358-4226-b1b9-139712b1dd15
+|kotlin:S1135"2Complete the task associated to this TODO comment.(¶Ş¼øÿÿÿÿ8ë¨ìš‡2J$fcea5807-5c9f-4e08-88d1-c2584e7a69e2
+wkotlin:S1135 "2Complete the task associated to this TODO comment.(â§İå8ë¨ìš‡2J$cfc151c2-b3bb-4092-af82-d56970b55f80
+wkotlin:S1135P"2Complete the task associated to this TODO comment.(àáÖ8ÕË÷š‡2J$af8b1b64-a677-4b98-9b2a-c1fc1241c320
+œkotlin:S100<"SRename function "_partition" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(Âªş¨ÿÿÿÿÿ8ÕË÷š‡2J$3117b44d-d41b-4ef9-be9e-e9ebdb9f2d5e
+—kotlin:S100Q"SRename function "_quickSort" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(…Ö—‰8ÕË÷š‡2J$adea8c26-17a7-4692-8532-6b9efa3ab08c
