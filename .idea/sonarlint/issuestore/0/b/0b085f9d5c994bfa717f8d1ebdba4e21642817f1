@@ -1,0 +1,11 @@
+
+wkotlin:S1172,"-Remove this unused function parameter "args".(¥å¥ûÿÿÿÿ8ºîû¹‡2J$bb3405e5-e715-4144-beb5-3a85ce5bfb14
+œkotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ÿ¿î·ÿÿÿÿÿ8ºîû¹‡2J$dbf79ef6-d202-4732-8338-fd21f115bd87
+—kotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ï°„œ8ºîû¹‡2J$25539569-bdc1-4d3e-95e9-54e7f4fd1463
+—kotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(½Ÿğ8ºîû¹‡2J$5fb07b8c-74ff-4169-bbfc-33b892ca7958
+—kotlin:S117-"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ì—ğÉ8ºîû¹‡2J$ef8b63df-7bd3-464e-930a-b6a9adfe6734
+—kotlin:S117."SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ğŠª¶8ºîû¹‡2J$27eb3b32-5fa9-454c-9b90-b5c9b8ac8b8a
+œkotlin:S1172"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÇíŒÅıÿÿÿÿ8ºîû¹‡2J$979c9eae-364a-4fa2-9216-0f5fc034ae39
+œkotlin:S1174"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ò¾Üÿÿÿÿÿ8ºîû¹‡2J$cb57ca35-a061-4e51-9594-ee4946130af7
+¢kotlin:S100"^Rename function "fget_InterCityDistMap" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ä Æê8¼îû¹‡2J$7f85b620-0bf6-46de-9e88-b892e32104e2
+vkotlin:S65187",Replace function call with indexed accessor.(Ş¤òÎûÿÿÿÿ8´Ùü¹‡2J$04a038db-521d-4d77-989d-4a26b21d7868

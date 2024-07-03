@@ -1,5 +1,8 @@
 package org.example.homework4.Class_Date
 
+import java.util.*
+
+
 class Date {
     private var year = 0
     private var month = 0
@@ -25,18 +28,37 @@ class Date {
 
     private fun isValidDate(y: Int, m: Int, d: Int): Boolean {
         val days_month = intArrayOf(0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31)
-        .... //직접구현할것.
+        if (this.isLeapYear(y))
+            days_month[2] = 29
+        return if (m>=1 || m <= 12 || d >= 1 || d <= days_month[m]){
+            true
+        }
+        else {
+            println("ilegal data! (month = %d, day = %d)".format(m,d))
+            false
+        }
     }
+
     private fun setDate(y: Int, m: Int, d: Int) {
         if (isValidDate(y, m, d)) {
-            .... //직접구현할것.
+            year = y
+            month = m
+            day = d
         }
         else {
             println("Ilegal date! (%d, %d, %d) ==> Program aborted.".format(y, m, d))
         }
     }
+
     fun getYearDay(year: Int, month: Int, day: Int): Int {
-        .... //직접구현할것.
+        val days_month = intArrayOf(0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31)
+        var yearDay = 0
+        for (m in 1 until month)
+            yearDay += days_month[m]
+        yearDay += day
+        if(month > 2 && isLeapYear(year))
+            yearDay += 1
+        return yearDay
     }
     fun getElapsedDaysFromAD010101(): Int {
         .... //직접구현할것.
