@@ -1,0 +1,13 @@
+
+ekotlin:S6615r" Remove this useless initializer.(¼„ì8â•İ‡2J$2e03addf-e0d3-4e49-86f8-341295aec05f
+’kotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( îÆ¨8ä•İ‡2J$7654068f-1bbf-4380-b7c1-aed670c88ab2
+’kotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( îÆ¨8ä•İ‡2J$e63f7ac5-e3ae-4b35-bcee-7864a08a60df
+—kotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(·ìÂêıÿÿÿÿ8ä•İ‡2J$67b876e2-0d17-4d73-b99a-72456cf890f7
+—kotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(·ìÂêıÿÿÿÿ8ä•İ‡2J$e2176c2c-071e-42a2-9699-0b48a6875f87
+—kotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(·ìÂêıÿÿÿÿ8ä•İ‡2J$d91f7f49-6c90-4a69-910c-84407366a60d
+œkotlin:S117I"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(—ÊÉ•ÿÿÿÿÿ8ä•İ‡2J$a35791dc-75a1-4fa2-bfff-fa151a892db8
+–kotlin:S117\"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(–ôÍ8ä•İ‡2J$8374a902-0523-4b6e-9c45-05551a4ce0c2
+–kotlin:S117f"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(–ôÍ8ä•İ‡2J$ee3ce620-1bd6-48eb-8da1-dfdfd50474da
+œkotlin:S117q"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(×ô†œûÿÿÿÿ8ä•İ‡2J$b11ebab2-f7b7-400d-884e-d54a752e651e
+—kotlin:S117r"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¼„ì8ä•İ‡2J$02549723-2ae4-4dce-810c-51daacd3230b
+–kotlin:S100*"RRename function "fget_Mtrx" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ó¤¿è8ç•İ‡2J$b768ca8b-4add-4799-a9e2-1357c29667b9

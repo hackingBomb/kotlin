@@ -1,0 +1,20 @@
+
+xkotlin:S1172‘"-Remove this unused function parameter "args".(¥å¥ûÿÿÿÿ8¦ä¥á‡2J$19163087-a290-44c7-b97b-756ad584f04e
+hkotlin:S125{"Remove this commented out code.(ç¹¸âşÿÿÿÿ8ø§¢á‡2J$18dbfcec-d2d5-4e05-89e7-f2fdbc56e488
+’kotlin:S117z"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¦¡êÌ8ù§¢á‡2J$51ba1cef-bf14-43bf-b66d-a6ec9aa0f130
+—kotlin:S117v"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¿á®‘8¬Œ£á‡2J$62474918-7bf5-438c-84d7-8b653a0fea8b
+—kotlin:S117“"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÊÆÓF8ù§¢á‡2J$f5926902-11b5-4308-85bc-c380303f6c5b
+˜kotlin:S117”"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¾ëŒ8ù§¢á‡2J$b0600b90-7675-4c0c-bd1e-b0b578f35265
+kotlin:S117—"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(€ëÅŞÿÿÿÿÿ8ù§¢á‡2J$9a56d44f-b32e-44e1-9922-cf77921fd1dc
+kotlin:S117˜"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Å¾Ó¥ûÿÿÿÿ8ù§¢á‡2J$3ac7068a-5df9-415f-9f63-e6a85a34a08f
+˜kotlin:S117™"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ŞÓ´8ù§¢á‡2J$097ea2d8-a6df-40e6-8ff5-68aff8e34b2c
+—kotlin:S117š"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(‡´l8ù§¢á‡2J$a9dc8052-0ef9-46b5-ab94-cdfab47e98fa
+wkotlin:S1135>"2Complete the task associated to this TODO comment.(àáÖ8û§¢á‡2J$7613d4c9-eb4c-4578-8a99-6525c37ef7c8
+rkotlin:S1481“"-Remove this unused "big_size" local variable.(ÊÆÓF8û§¢á‡2J$74411970-de25-46ff-ba35-115827b3208a
+skotlin:S1481’"(Remove this unused "cin" local variable.(’‘ƒÚùÿÿÿÿ8ü§¢á‡2J$a5ddc812-76c9-4ce5-87e8-984d424a3905
+_kotlin:S1128"Remove this unused import.(÷½Â¨8’é¹á‡2J$d16860d2-ca70-42d5-9e2d-4d032bee892c
+›kotlin:S100	"WRename function "insertion_sort" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(…¾î8ı§¢á‡2J$18eb1659-538b-40bb-b178-ea7e601c94bb
+›kotlin:S100"WRename function "selection_sort" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(åŒ‚¹8ı§¢á‡2J$8c0c3f29-4c67-4333-bae2-c071e64d01f9
+œkotlin:S100*"SRename function "_partition" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(Âªş¨ÿÿÿÿÿ8ı§¢á‡2J$5de8d561-6467-4e80-b0a8-4b52ac9d73a4
+—kotlin:S100?"SRename function "_quickSort" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(…Ö—‰8ı§¢á‡2J$5c039ec8-6e3f-42f2-9471-d43b1de3c40b
+—kotlin:S100z"SRename function "_mergeSort" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(¦¡êÌ8ı§¢á‡2J$f0112520-29a4-45f2-9439-88aaedb5ad9b

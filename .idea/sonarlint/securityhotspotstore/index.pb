@@ -10,7 +10,7 @@ b
 ]
 -src/main/kotlin/homework2/homework2.1-sort.kt,8/4/84a908ae78129a5b2b0a4eb82abf4a03936abbec
 _
-/src/main/kotlin/homework2/homework2.2-matrix.kt,1\6\16e857f555641d5c503f444dd09d63732fb259c3
+/src/main/kotlin/homework2/homework2.2-matrix.kt,1/6/16e857f555641d5c503f444dd09d63732fb259c3
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 :
@@ -54,3 +54,27 @@ f
 6src/main/kotlin/day3/MyKotlinPackage/MyGenericArray.kt,7/9/7908c98bbd911f723b7afa328cad1ac6d33886c3
 U
 %src/main/kotlin/day3/day3-CityPair.kt,0/b/0b085f9d5c994bfa717f8d1ebdba4e21642817f1
+W
+'src/main/kotlin/day4/day3-fileStream.kt,5/8/586845e1ff44a6d05149487cf14012587bf3443b
+N
+src/main/kotlin/day4/input.txt,f/6/f692a94fc646f69d2dab5df84ee040f433f291f6
+W
+'src/main/kotlin/day4/day4-fileReader.kt,a/9/a90783301edce2b2d664ef6984ecc0ae8e413aa4
+X
+(src/main/kotlin/day4/student_records.txt,c/e/ce3de30cfad6799bb5409d183e48d86f77f1976a
+O
+src/main/kotlin/day4/output.txt,a/b/abd41072c910409a43c1ae07fbfa25e4a8cad7b2
+\
+,src/main/kotlin/day4/keyboard_input_text.txt,8/9/891f0ff2207192353f96073bd50fa063d5e5608e
+Q
+!src/main/kotlin/day4/day4-mtrx.kt,3/7/37c7ec3c9dd15154fa01659e977a25c23cc0831f
+V
+&src/main/kotlin/day4/mtrx/day4-mtrx.kt,f/a/fa9971beb888686e73a5cb19b7e16fd019143c34
+V
+&src/main/kotlin/day4/mtrx/Mtrx/Mtrx.kt,4/4/4414e755a20f6b1967ccd0640a1a32c34ba50551
+W
+'src/main/kotlin/day4/mtrx/mtrx_data.txt,0/1/012ae419eb6983f3022d0a3ea41bec9d4f13cfb0
+c
+3src/main/kotlin/day4/mtrx/mtrx_operation_result.txt,9/2/928001edc787720e232fee89f080af7105cc4eda
+Y
+)src/main/kotlin/day4/algorithm/dynamic.kt,7/2/724c691ec1429f122fc2515de4ed780c33bed18d
